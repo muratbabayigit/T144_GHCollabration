@@ -4,9 +4,11 @@ public class T144_anaDizin {
         System.out.println("Buralar karisacak gibi");
 
 
+
+
         System.out.println("Yasasin pazartesi");
 
 
         }
     }
-git
+
