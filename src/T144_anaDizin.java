@@ -7,6 +7,8 @@ public class T144_anaDizin {
 
 
         System.out.println("Yasasin pazartesi");
+        System.out.println("Hata nerede");
+
 
 
         }
