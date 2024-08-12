@@ -6,7 +6,13 @@ public class T144_anaDizin {
         System.out.println("Buralar karışacak alın vaziyet alın");
 
 
+
+        System.out.println("Ne oluyor sana github");
+
+
+
         System.out.println("Proje cuma günü basliyor");
+
     }
 
 
