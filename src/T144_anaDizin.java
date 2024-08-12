@@ -6,5 +6,6 @@ public class T144_anaDizin {
         System.out.println("Buralar karışacak alın vaziyet alın");
 
 
+        System.out.println("Proje cuma günü basliyor");
     }
 }
